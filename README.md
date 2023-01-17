@@ -1,5 +1,14 @@
 # AN INSIGHT INTO SHORT LET PRICING: AIRBNB SEATTLE CASE STUDY
 In this project I would be exploring the dataset of airbnb listings in the Seattle. There are 3 dataset to be explored in this project. The data in this project was downloaded here. The result of this project would give insight to people that want to get into the business of shortlet to understand how prices are determined and factors that affect it
+
+# ACKNOWLEDGE
+
+## DATA CREDIT
+
+UDACITY 
+
+[Click here](https://www.kaggle.com/airbnb/seattle/data) to download the data
+
 # PROJECT MOTIVATION
 This project is meant to answer some questions that potention shortlet owners would have, giving clearity to the pricing system of shortlets using airbnb as a case study. Some of these questions are;
 
